@@ -16,8 +16,11 @@ cmake --build .        # Build all default targets.
 
 ### Example
 > p l y o
+>
 > b u i b
+>
 > h s u o
+>
 > w o i k
 
 ```shell
